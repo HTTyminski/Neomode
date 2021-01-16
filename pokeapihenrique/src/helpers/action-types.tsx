@@ -1,0 +1,9 @@
+export const SEARCH_POKEMON:string = "SEARCH_POKEMON";
+export const POKEMON_FOUND:string = "POKEMON_FOUND";
+export const POKEMON_NOT_FOUND:string = "POKEMON_NOT_FOUND";
+export const DATA_REQUESTED:string = "DATA_REQUESTED";
+export const DATA_LOADED:string = "DATA_LOADED";
+export const API_ERRORED:string = "API_ERRORED";
+export const DATA_POKEMON_LOADED:string = "DATA_POKEMON_LOADED";
+export const DATA_POKEMON_REQ:string = "DATA_POKEMON_REQ";
+export const DATA_POKEMON_SPEC_LOADED:string = "DATA_POKEMON_SPEC_LOADED";
